@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+A hidden file .git where all the metadatra of the initialized repository is stored and the current directory will act as a repository from then on
+
+
