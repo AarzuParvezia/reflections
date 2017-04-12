@@ -4,4 +4,5 @@ A hidden file .git where all the metadatra of the initialized repository is stor
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 A working directory is where all your files are stored, updated, created manipulated. A repository will have the different versions of the files, with each version added as there are any changes in the files whenever a commit is done. A staging are acts as interface for working directory and repository where the files are placed temporarily before committing them to the repository.
 
-
+How can you use the staging area to make sure you have one commit per logical change?
+Add the updated file to the staging area as soon as it is done.
