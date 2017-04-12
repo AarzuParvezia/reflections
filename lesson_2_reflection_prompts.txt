@@ -6,3 +6,6 @@ A working directory is where all your files are stored, updated, created manipul
 
 How can you use the staging area to make sure you have one commit per logical change?
 Add the updated file to the staging area as soon as it is done.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+when doing a POC on particular peice of code, where it would not affect the actual project
