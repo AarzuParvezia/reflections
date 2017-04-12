@@ -1,0 +1,1 @@
+manual commit may be errorprone like committing the wrong file or miss to commiy a file

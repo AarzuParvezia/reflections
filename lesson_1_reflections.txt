@@ -1,0 +1,2 @@
+what are the other version control tools that can be used?
+what is included in the details of check-out and check-in process?
