@@ -4,4 +4,9 @@ When I might be using a computer other than mine, I would want to have all y rec
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 So that I would have a track of whats in my repository and in github
 
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Clone - a copy of repository from github to local
+Branch - a side track from the main branch, to isolate the actual code from that of further updates, when required
+Fork - a copy of repository from others project to your own, where you can update your code and the owner can also review the changes
+
 
